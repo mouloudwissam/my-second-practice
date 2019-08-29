@@ -1,0 +1,20 @@
+Declare a multidimensional array of ints , westboundHollandTunnelTraffic that can store the number of vehicles going westbound through the Holland Tunnel on a particular hour on a particular day on a particular week on a particular year. The innermost dimension should be years, with the next being weeks, and so on.
+int westboundHollandTunnelTraffic [ ] [ ] [ ] [ ];
+ 
+
+21032
+Declare , create, and initialize a three-dimensional array of ints , x, that has 3 rows, each of which has 2 columns where each column is an array 4 ints . The elements in the first row are all 5, in the second row are all 7, and in the third row the first column is all 8 and the second column is 30, 31, 32, and 33.
+Click To Expand Code
+ 
+
+Share this:
+FacebookLinkedInTwitterMore
+Other Related Posts
+Two-Dimensional Array Basics - declaration-initialization
+21030 Declare and create a two-dimensional array of chars , tictactoe, with 3 rows, each with 3 elements , and initialize it to all space characters . char[][] tictactoe = { {' ',' ',' '}, {' ',' ',' '}, {' ',' ',' '}, };   21031 Declare and create a…
+
+Two-Dimensional Array Basics - element access
+21033 A 2-dimensional 3x3 array of ints , has been created and assigned to tictactoe. Write an expression whose value is that of the first element in the first row. tictactoe[0][0]   21034 A 2-dimensional 3x3 array of ints , has been created and assigned to tictactoe. Write an expression…
+
+Processing Two-Dimensional Arrays
+row lengths 21048 Assume you are given an int variable named nElements and a 2-dimensional array that has been created and assigned to a2d. Write one or more statements that assign to nElements the total number of elements that could be stored in the entire 2-dimensional array . nElements =…
